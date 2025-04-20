@@ -1,0 +1,21 @@
+{
+  "urls":[  
+    {
+      "url": "https://raw.githubusercontent.com/qlysgzs/qldb/refs/heads/main/catcr.json",
+      "name": "麒麟影视之菊"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qlysgzs/qldb/refs/heads/main/index18.json",
+      "name": "麒麟影视之兰"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qlysgzs/qldb/refs/heads/main/a18.json",
+      "name": "麒麟影视之梅"
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/qlysgzs/qldb/refs/heads/main/18cn.json",
+      "name": "麒麟影视之竹"
+    }
+  ]
+}

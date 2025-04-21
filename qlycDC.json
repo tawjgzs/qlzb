@@ -1,0 +1,7 @@
+{
+"storeHouse": 
+[ 
+{"sourceName":"麒麟影仓主用仓","sourceUrl":"https://raw.githubusercontent.com/tawjgzs/qlzb/refs/heads/main/qlysdc.json"},
+{"sourceName":"麒麟影仓备用仓","sourceUrl":"https://codeberg.org/qlysgzs/qlys/raw/branch/main/qlys_dc.json"}
+]
+}
